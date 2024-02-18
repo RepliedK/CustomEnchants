@@ -1,0 +1,4 @@
+name: CustomEnchants
+version: 1.0.0
+main: repliedk\CustomEnchants
+api: 5.0.0

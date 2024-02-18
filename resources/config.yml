@@ -1,0 +1,9 @@
+enchantments:
+  speed:
+    effect-id: "speed"
+  night_vision:
+    effect-id: "night_vision"
+  invisibility:
+    effect-id: "invisibility"
+  fire_resistance:
+    effect-id: "fire_resistance"
